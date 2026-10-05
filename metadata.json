@@ -1,0 +1,6 @@
+{
+  "name": "HMM Speech Recognition Studio & Python Lab",
+  "description": "Interactive Hidden Markov Model (HMM) speech recognition workbench with real-time MFCC feature extraction, Baum-Welch training, Viterbi trellis decoding, and Python code generation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
